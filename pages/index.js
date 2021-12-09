@@ -52,6 +52,7 @@ export default function Home({ coffeeStoresData }) {
       <Head>
         <title>Coffee Connoisseur</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="description" content="Allow you to discover coffee stores"></meta>
       </Head>
 
       <main className={styles.main}>

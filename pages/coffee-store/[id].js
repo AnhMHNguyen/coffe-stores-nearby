@@ -121,7 +121,8 @@ const CoffeeStore = ({coffeeStoreData}) => {
   return (
     <div className={styles.layout}>
       <Head>
-        <title>{ coffeeStore.name }</title>
+        <title>{coffeeStore.name}</title>
+        <meta name="description" content={`${coffeeStore.name} coffee store`}></meta>
       </Head>
       <div className={styles.container}>
         <div className={styles.col1}>
