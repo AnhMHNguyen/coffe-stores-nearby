@@ -1,0 +1,2361 @@
+{
+   "meta":{
+      "code":200,
+      "requestId":"61aeb0187a3fe5632b5c80d1"
+   },
+   "notifications":[
+      {
+         "type":"notificationTray",
+         "item":{
+            "unreadCount":0
+         }
+      }
+   ],
+   "response":{
+      "venues":[
+         {
+            "id":"4baa31def964a52037523ae3",
+            "name":"Coffee office",
+            "contact":{
+               
+            },
+            "location":{
+               "address":"350 Bay St - 7th Floor",
+               "lat":43.649498,
+               "lng":-79.386479,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.649498,
+                     "lng":-79.386479
+                  }
+               ],
+               "distance":804,
+               "cc":"CA",
+               "neighborhood":"Entertainment District",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Entertainment District",
+               "contextGeoId":113536,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">350 Bay St - 7th Floor<\/span>",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/coffee-office\/4baa31def964a52037523ae3",
+            "canonicalPath":"\/v\/coffee-office\/4baa31def964a52037523ae3",
+            "categories":[
+               
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":0,
+               "usersCount":1,
+               "checkinsCount":3
+            },
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4afcbd58f964a520822522e3",
+            "name":"Coffee Culture Cafe & Eatery",
+            "contact":{
+               "phone":"4168689078",
+               "formattedPhone":"(416) 868-9078",
+               "twitter":"coffeecultureca",
+               "facebook":"211143895639474",
+               "facebookUsername":"CoffeeCultureCafe",
+               "facebookName":"Coffee Culture Café & Eatery"
+            },
+            "location":{
+               "address":"409 College St.",
+               "crossStreet":"at Lippincott St.",
+               "lat":43.65670534038625,
+               "lng":-79.40653544093679,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.65670534038625,
+                     "lng":-79.40653544093679
+                  }
+               ],
+               "distance":998,
+               "cc":"CA",
+               "neighborhood":"Downtown Toronto",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Downtown Toronto",
+               "contextGeoId":66084,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">409 College St.<\/span> (at Lippincott St.)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/coffee-culture-cafe--eatery\/4afcbd58f964a520822522e3",
+            "canonicalPath":"\/v\/coffee-culture-cafe--eatery\/4afcbd58f964a520822522e3",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":true,
+            "stats":{
+               "tipCount":15,
+               "usersCount":451,
+               "checkinsCount":1152
+            },
+            "url":"http:\/\/t.co\/LdvMUkpm5o",
+            "urlSig":"3WwaZtb5C1Eq6q0ct1NqF6B4OKw=",
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "storeId":"",
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               {
+                  "id":"556a23c6a7c8957d73d2ed50"
+               }
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"51438b33e4b0a40e33fe5e77",
+            "name":"Jimmy's Coffee",
+            "contact":{
+               "phone":"4169012289",
+               "formattedPhone":"(416) 901-2289",
+               "twitter":"jimmyscoffee"
+            },
+            "location":{
+               "address":"191 Baldwin St",
+               "crossStreet":"Kensington Market",
+               "lat":43.65449315540114,
+               "lng":-79.40131090393002,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.65449315540114,
+                     "lng":-79.40131090393002
+                  }
+               ],
+               "distance":513,
+               "cc":"CA",
+               "neighborhood":"Kensington Market",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Kensington Market",
+               "contextGeoId":30129,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">191 Baldwin St<\/span> (Kensington Market)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/jimmys-coffee\/51438b33e4b0a40e33fe5e77",
+            "canonicalPath":"\/v\/jimmys-coffee\/51438b33e4b0a40e33fe5e77",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d16d941735",
+                  "name":"Café",
+                  "pluralName":"Cafés",
+                  "shortName":"Café",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/cafe",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":53,
+               "usersCount":1546,
+               "checkinsCount":3065
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"59f784dd28122f14f9d5d63d",
+            "name":"HotBlack Coffee",
+            "contact":{
+               "phone":"4168406141",
+               "formattedPhone":"(416) 840-6141",
+               "twitter":"hotblack_coffee",
+               "instagram":"hotblack_coffee"
+            },
+            "location":{
+               "address":"245 Queen Street West",
+               "crossStreet":"at St Patrick St",
+               "lat":43.65036434800487,
+               "lng":-79.38866907575726,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.65036434800487,
+                     "lng":-79.38866907575726
+                  }
+               ],
+               "distance":604,
+               "postalCode":"M5V 1Z4",
+               "cc":"CA",
+               "neighborhood":"Entertainment District",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Entertainment District",
+               "contextGeoId":113536,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">245 Queen Street West<\/span> (at St Patrick St)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5V 1Z4<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/hotblack-coffee\/59f784dd28122f14f9d5d63d",
+            "canonicalPath":"\/v\/hotblack-coffee\/59f784dd28122f14f9d5d63d",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":true,
+            "stats":{
+               "tipCount":31,
+               "usersCount":624,
+               "checkinsCount":2656
+            },
+            "url":"http:\/\/hotblack-coffee.com",
+            "urlSig":"Zk36CSzQVup9gGucgyMxstQVGiE=",
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "venuePage":{
+               "id":"463001529"
+            },
+            "storeId":"3373696",
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4d8a7096d85f3704d05afedb",
+            "name":"T.A.N. Coffee",
+            "contact":{
+               "twitter":"tancoffeeto"
+            },
+            "location":{
+               "address":"37 Baldwin St",
+               "crossStreet":"Henry St",
+               "lat":43.65602860741956,
+               "lng":-79.39353447011945,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.65602860741956,
+                     "lng":-79.39353447011945
+                  }
+               ],
+               "distance":404,
+               "cc":"CA",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Toronto, ON",
+               "contextGeoId":582135,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">37 Baldwin St<\/span> (Henry St)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/tan-coffee\/4d8a7096d85f3704d05afedb",
+            "canonicalPath":"\/v\/tan-coffee\/4d8a7096d85f3704d05afedb",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":7,
+               "usersCount":214,
+               "checkinsCount":484
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4b7bedfbf964a5204e742fe3",
+            "name":"Coffee Exchange",
+            "contact":{
+               "phone":"4165918430",
+               "formattedPhone":"(416) 591-8430"
+            },
+            "location":{
+               "address":"109 McCaul St",
+               "crossStreet":"Dundas St W (The Grange)",
+               "lat":43.65373019161559,
+               "lng":-79.39098314529086,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.65373019161559,
+                     "lng":-79.39098314529086
+                  }
+               ],
+               "distance":378,
+               "postalCode":"M5T 3K5",
+               "cc":"CA",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Toronto, ON",
+               "contextGeoId":582135,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">109 McCaul St<\/span> (Dundas St W (The Grange))",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5T 3K5<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/coffee-exchange\/4b7bedfbf964a5204e742fe3",
+            "canonicalPath":"\/v\/coffee-exchange\/4b7bedfbf964a5204e742fe3",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":5,
+               "usersCount":101,
+               "checkinsCount":513
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"50046391e4b025b2598516f3",
+            "name":"Coffee Antidote 9th Floor",
+            "contact":{
+               
+            },
+            "location":{
+               "lat":43.654360144769974,
+               "lng":-79.3886663553874,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.654360144769974,
+                     "lng":-79.3886663553874
+                  }
+               ],
+               "distance":578,
+               "cc":"CA",
+               "country":"Canada",
+               "contextLine":"",
+               "contextGeoId":582135,
+               "formattedAddress":[
+                  ""
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/coffee-antidote-9th-floor\/50046391e4b025b2598516f3",
+            "canonicalPath":"\/v\/coffee-antidote-9th-floor\/50046391e4b025b2598516f3",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d16d941735",
+                  "name":"Café",
+                  "pluralName":"Cafés",
+                  "shortName":"Café",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/cafe",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":0,
+               "usersCount":2,
+               "checkinsCount":13
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"5c096c2c23a2e6002c5de001",
+            "name":"Coffee Dak Lak",
+            "contact":{
+               
+            },
+            "location":{
+               "address":"283 College St",
+               "lat":43.657707,
+               "lng":-79.400995,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.657707,
+                     "lng":-79.400995
+                  }
+               ],
+               "distance":716,
+               "postalCode":"M5T 1S2",
+               "cc":"CA",
+               "neighborhood":"Kensington Market",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Kensington Market",
+               "contextGeoId":30129,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">283 College St<\/span>",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5T 1S2<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/coffee-dak-lak\/5c096c2c23a2e6002c5de001",
+            "canonicalPath":"\/v\/coffee-dak-lak\/5c096c2c23a2e6002c5de001",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":1,
+               "usersCount":33,
+               "checkinsCount":44
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"5c01d5553183940025479371",
+            "name":"Coffee, Oysters, Champagne",
+            "contact":{
+               
+            },
+            "location":{
+               "address":"214 King Street West",
+               "lat":43.647309,
+               "lng":-79.38673,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.647309,
+                     "lng":-79.38673
+                  }
+               ],
+               "distance":922,
+               "postalCode":"M5H 3S6",
+               "cc":"CA",
+               "neighborhood":"Entertainment District",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Entertainment District",
+               "contextGeoId":113536,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">214 King Street West<\/span>",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5H 3S6<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/coffee-oysters-champagne\/5c01d5553183940025479371",
+            "canonicalPath":"\/v\/coffee-oysters-champagne\/5c01d5553183940025479371",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d121941735",
+                  "name":"Lounge",
+                  "pluralName":"Lounges",
+                  "shortName":"Lounge",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/default_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/nightlife\/lounge",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":3,
+               "usersCount":183,
+               "checkinsCount":267
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"5ae08490840fc2233961d4a3",
+            "name":"The Coffee Lab",
+            "contact":{
+               "phone":"6472128817",
+               "formattedPhone":"(647) 212-8817",
+               "instagram":"the.coffee.lab",
+               "facebook":"1551524698414421",
+               "facebookName":"The Coffee Lab"
+            },
+            "location":{
+               "address":"141 Spadina Ave",
+               "crossStreet":"Richmond St W",
+               "lat":43.647594,
+               "lng":-79.395641,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.647594,
+                     "lng":-79.395641
+                  }
+               ],
+               "distance":565,
+               "postalCode":"M5V 2K8",
+               "cc":"CA",
+               "neighborhood":"Entertainment District",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Entertainment District",
+               "contextGeoId":113536,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">141 Spadina Ave<\/span> (Richmond St W)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5V 2K8<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/the-coffee-lab\/5ae08490840fc2233961d4a3",
+            "canonicalPath":"\/v\/the-coffee-lab\/5ae08490840fc2233961d4a3",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":1,
+               "usersCount":77,
+               "checkinsCount":95
+            },
+            "url":"http:\/\/www.thecoffeelab.com",
+            "urlSig":"mLRWQRB7SY2+tq6F4Fzft95vmPA=",
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4fb13c20e4b011e6f93513c0",
+            "name":"Balzac's Coffee",
+            "contact":{
+               "phone":"4165971700",
+               "formattedPhone":"(416) 597-1700",
+               "twitter":"balzacs",
+               "facebook":"128923090493288",
+               "facebookUsername":"balzacscoffeedistillerydistrict",
+               "facebookName":"Balzac's Coffee"
+            },
+            "location":{
+               "address":"122 Bond Street",
+               "crossStreet":"at Gould St.",
+               "lat":43.65785440672277,
+               "lng":-79.37919981155157,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.65785440672277,
+                     "lng":-79.37919981155157
+                  }
+               ],
+               "distance":1430,
+               "postalCode":"M5B 1X8",
+               "cc":"CA",
+               "neighborhood":"Downtown Toronto",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Downtown Toronto",
+               "contextGeoId":66084,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">122 Bond Street<\/span> (at Gould St.)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5B 1X8<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/balzacs-coffee\/4fb13c20e4b011e6f93513c0",
+            "canonicalPath":"\/v\/balzacs-coffee\/4fb13c20e4b011e6f93513c0",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":true,
+            "stats":{
+               "tipCount":42,
+               "usersCount":874,
+               "checkinsCount":2085
+            },
+            "url":"http:\/\/www.balzacs.com",
+            "urlSig":"qJaH9oXIeqWlzAHHo7rJG+qPndI=",
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "storeId":"",
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"53e8acc4498ee294fb100183",
+            "name":"Timothy's World Coffee",
+            "contact":{
+               "phone":"4169774363",
+               "formattedPhone":"(416) 977-4363",
+               "facebook":"161122303954105",
+               "facebookUsername":"TimothysCafes",
+               "facebookName":"Timothy's Café"
+            },
+            "location":{
+               "address":"425 University Ave",
+               "crossStreet":"Dundas",
+               "lat":43.65427,
+               "lng":-79.387448,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.65427,
+                     "lng":-79.387448
+                  }
+               ],
+               "distance":669,
+               "postalCode":"M5G 1T6",
+               "cc":"CA",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Toronto, ON",
+               "contextGeoId":582159,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">425 University Ave<\/span> (Dundas)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5G 1T6<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/timothys-world-coffee\/53e8acc4498ee294fb100183",
+            "canonicalPath":"\/v\/timothys-world-coffee\/53e8acc4498ee294fb100183",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":true,
+            "stats":{
+               "tipCount":0,
+               "usersCount":2,
+               "checkinsCount":3
+            },
+            "url":"https:\/\/mtygroup.com\/nos-enseignes\/",
+            "urlSig":"6iVbGuW9lYS2aL6QqSdiPlOdl+8=",
+            "menu":{
+               "type":"Menu",
+               "label":"Menu",
+               "anchor":"View Menu",
+               "url":"http:\/\/timothyscafes.com\/en\/menu-items\/",
+               "mobileUrl":"http:\/\/timothyscafes.com\/en\/menu-items\/",
+               "canonicalPath":"\/v\/timothys-world-coffee\/53e8acc4498ee294fb100183\/menu",
+               "externalUrl":"http:\/\/timothyscafes.com\/en\/menu-items\/"
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               {
+                  "id":"5e6bd3fb0e615b74ee0d076b"
+               }
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"5c86b682da2e00002cf95781",
+            "name":"Second Cup Coffee Co. featuring Pinkberry Frozen Yogurt",
+            "contact":{
+               "phone":"4165864800",
+               "formattedPhone":"(416) 586-4800",
+               "twitter":"secondcupcanada",
+               "facebook":"1949129422026829",
+               "facebookName":"Second Cup Coffee Co. featuring Pinkberry Frozen Yogurt"
+            },
+            "location":{
+               "address":"600 University Avenue, Room #202",
+               "lat":43.657473,
+               "lng":-79.390637,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.657473,
+                     "lng":-79.390637
+                  }
+               ],
+               "distance":660,
+               "postalCode":"M5G 1X5",
+               "cc":"CA",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Toronto, ON",
+               "contextGeoId":582135,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">600 University Avenue, Room #202<\/span>",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5G 1X5<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/second-cup-coffee-co-featuring-pinkberry-frozen-yogurt\/5c86b682da2e00002cf95781",
+            "canonicalPath":"\/v\/second-cup-coffee-co-featuring-pinkberry-frozen-yogurt\/5c86b682da2e00002cf95781",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d16d941735",
+                  "name":"Café",
+                  "pluralName":"Cafés",
+                  "shortName":"Café",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/cafe",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":0,
+               "usersCount":0,
+               "checkinsCount":0
+            },
+            "url":"https:\/\/secondcup.com\/location\/mount-sinai-hospital",
+            "urlSig":"4\/hBvElN7GvCQUM8ADfUEFJbV6o=",
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"5c86b6b9cb3fd2002cd9c9a2",
+            "name":"Second Cup Coffee Co. featuring Pinkberry Frozen Yogurt",
+            "contact":{
+               "phone":"4165950244",
+               "formattedPhone":"(416) 595-0244",
+               "twitter":"secondcupcanada",
+               "facebook":"851939654979849",
+               "facebookName":"Second Cup Coffee Co. featuring Pinkberry Frozen Yogurt"
+            },
+            "location":{
+               "address":"179 College Street",
+               "lat":43.65887244042741,
+               "lng":-79.39415829049284,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.65887244042741,
+                     "lng":-79.39415829049284
+                  }
+               ],
+               "distance":697,
+               "postalCode":"M5T 1P7",
+               "cc":"CA",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Toronto, ON",
+               "contextGeoId":582135,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">179 College Street<\/span>",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5T 1P7<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/second-cup-coffee-co-featuring-pinkberry-frozen-yogurt\/5c86b6b9cb3fd2002cd9c9a2",
+            "canonicalPath":"\/v\/second-cup-coffee-co-featuring-pinkberry-frozen-yogurt\/5c86b6b9cb3fd2002cd9c9a2",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d16d941735",
+                  "name":"Café",
+                  "pluralName":"Cafés",
+                  "shortName":"Café",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/cafe",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":0,
+               "usersCount":0,
+               "checkinsCount":0
+            },
+            "url":"https:\/\/secondcup.com\/location\/179-college-street",
+            "urlSig":"fyPfXBGrMfaelqkIAfAg7FzWU+E=",
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"584593c2ebf0284fe7b103cb",
+            "name":"Fahrenheit Coffee",
+            "contact":{
+               
+            },
+            "location":{
+               "address":"529 Richmond St W",
+               "lat":43.64703669923361,
+               "lng":-79.40087579760974,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.64703669923361,
+                     "lng":-79.40087579760974
+                  }
+               ],
+               "distance":764,
+               "cc":"CA",
+               "neighborhood":"Fashion District",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Fashion District",
+               "contextGeoId":113534,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">529 Richmond St W<\/span>",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/fahrenheit-coffee\/584593c2ebf0284fe7b103cb",
+            "canonicalPath":"\/v\/fahrenheit-coffee\/584593c2ebf0284fe7b103cb",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":4,
+               "usersCount":196,
+               "checkinsCount":623
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"5ae32b6412c8f0002c2b03e7",
+            "name":"Super Jet International Coffee Shop",
+            "contact":{
+               
+            },
+            "location":{
+               "address":"267 College St.",
+               "crossStreet":"Spadina Ave",
+               "lat":43.657971,
+               "lng":-79.399795,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.657971,
+                     "lng":-79.399795
+                  }
+               ],
+               "distance":685,
+               "postalCode":"M5T 1R5",
+               "cc":"CA",
+               "neighborhood":"University",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"University",
+               "contextGeoId":30140,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">267 College St.<\/span> (Spadina Ave)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5T 1R5<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/super-jet-international-coffee-shop\/5ae32b6412c8f0002c2b03e7",
+            "canonicalPath":"\/v\/super-jet-international-coffee-shop\/5ae32b6412c8f0002c2b03e7",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":1,
+               "usersCount":8,
+               "checkinsCount":50
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4b44fc77f964a520cc0026e3",
+            "name":"Timothy's World Coffee",
+            "contact":{
+               
+            },
+            "location":{
+               "address":"427 University Avenue",
+               "lat":43.65405317976302,
+               "lng":-79.38808999785911,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.65405317976302,
+                     "lng":-79.38808999785911
+                  }
+               ],
+               "distance":612,
+               "cc":"CA",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Toronto, ON",
+               "contextGeoId":582135,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">427 University Avenue<\/span>",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/timothys-world-coffee\/4b44fc77f964a520cc0026e3",
+            "canonicalPath":"\/v\/timothys-world-coffee\/4b44fc77f964a520cc0026e3",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":7,
+               "usersCount":272,
+               "checkinsCount":763
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               {
+                  "id":"5e6bd3fb0e615b74ee0d076b"
+               }
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4adb5a00f964a5204c2621e3",
+            "name":"I Deal Coffee",
+            "contact":{
+               "phone":"4163647700",
+               "formattedPhone":"(416) 364-7700"
+            },
+            "location":{
+               "address":"84 Nassau Street",
+               "lat":43.65505778213131,
+               "lng":-79.40325401691655,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.65505778213131,
+                     "lng":-79.40325401691655
+                  }
+               ],
+               "distance":681,
+               "cc":"CA",
+               "neighborhood":"Kensington Market",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Kensington Market",
+               "contextGeoId":30129,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">84 Nassau Street<\/span>",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/i-deal-coffee\/4adb5a00f964a5204c2621e3",
+            "canonicalPath":"\/v\/i-deal-coffee\/4adb5a00f964a5204c2621e3",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":16,
+               "usersCount":490,
+               "checkinsCount":1199
+            },
+            "hasMenu":true,
+            "menu":{
+               "type":"Menu",
+               "label":"Menu",
+               "anchor":"View Menu",
+               "url":"https:\/\/foursquare.com\/v\/i-deal-coffee\/4adb5a00f964a5204c2621e3\/menu",
+               "mobileUrl":"https:\/\/foursquare.com\/v\/4adb5a00f964a5204c2621e3\/device_menu",
+               "canonicalPath":"\/v\/i-deal-coffee\/4adb5a00f964a5204c2621e3\/menu"
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4cf2a5437e0da1cdf0a69897",
+            "name":"Coffee Pocket",
+            "contact":{
+               "phone":"6473412572",
+               "formattedPhone":"(647) 341-2572"
+            },
+            "location":{
+               "address":"688a Bloor St W",
+               "crossStreet":"at Clinton St",
+               "lat":43.66394931021736,
+               "lng":-79.41696001820671,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.66394931021736,
+                     "lng":-79.41696001820671
+                  }
+               ],
+               "distance":2138,
+               "postalCode":"M6G 1L2",
+               "cc":"CA",
+               "neighborhood":"Koreatown",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Koreatown",
+               "contextGeoId":30172,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">688a Bloor St W<\/span> (at Clinton St)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M6G 1L2<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/coffee-pocket\/4cf2a5437e0da1cdf0a69897",
+            "canonicalPath":"\/v\/coffee-pocket\/4cf2a5437e0da1cdf0a69897",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":24,
+               "usersCount":399,
+               "checkinsCount":2624
+            },
+            "url":"http:\/\/samjamescoffeebar.com",
+            "urlSig":"+tCJDp\/VvpaJlLgSN\/MXAtXskhQ=",
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"58f629adfe3740404f3bf8d4",
+            "name":"Sam James Coffee Bar",
+            "contact":{
+               
+            },
+            "location":{
+               "address":"241 Spadina Avenue",
+               "lat":43.65139235454303,
+               "lng":-79.39740410010317,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.65139235454303,
+                     "lng":-79.39740410010317
+                  }
+               ],
+               "distance":212,
+               "postalCode":"M5T 3A8",
+               "cc":"CA",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Toronto, ON",
+               "contextGeoId":582135,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">241 Spadina Avenue<\/span>",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5T 3A8<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/sam-james-coffee-bar\/58f629adfe3740404f3bf8d4",
+            "canonicalPath":"\/v\/sam-james-coffee-bar\/58f629adfe3740404f3bf8d4",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":1,
+               "usersCount":58,
+               "checkinsCount":108
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"5c2d70d4bd4009002c4f500a",
+            "name":"Cozy Coffee",
+            "contact":{
+               
+            },
+            "location":{
+               "address":"200 Queen St W",
+               "crossStreet":"St Patrick St",
+               "lat":43.650535,
+               "lng":-79.388953,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.650535,
+                     "lng":-79.388953
+                  }
+               ],
+               "distance":575,
+               "postalCode":"M5V 1Z2",
+               "cc":"CA",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Toronto, ON",
+               "contextGeoId":582135,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">200 Queen St W<\/span> (St Patrick St)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5V 1Z2<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/cozy-coffee\/5c2d70d4bd4009002c4f500a",
+            "canonicalPath":"\/v\/cozy-coffee\/5c2d70d4bd4009002c4f500a",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":0,
+               "usersCount":17,
+               "checkinsCount":18
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4baa9f6cf964a520817a3ae3",
+            "name":"Timothy's World Coffee",
+            "contact":{
+               "phone":"4162030238",
+               "formattedPhone":"(416) 203-0238"
+            },
+            "location":{
+               "address":"401 Bay St.",
+               "crossStreet":"at Richmond St. W",
+               "lat":43.65213455850074,
+               "lng":-79.38117224696582,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.65213455850074,
+                     "lng":-79.38117224696582
+                  }
+               ],
+               "distance":1152,
+               "postalCode":"M5H 2Y4",
+               "cc":"CA",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Toronto, ON",
+               "contextGeoId":582159,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">401 Bay St.<\/span> (at Richmond St. W)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5H 2Y4<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/timothys-world-coffee\/4baa9f6cf964a520817a3ae3",
+            "canonicalPath":"\/v\/timothys-world-coffee\/4baa9f6cf964a520817a3ae3",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":3,
+               "usersCount":79,
+               "checkinsCount":100
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               {
+                  "id":"5e6bd3fb0e615b74ee0d076b"
+               }
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4b156e98f964a520cbac23e3",
+            "name":"Timothy's World Coffee",
+            "contact":{
+               "phone":"4169289666",
+               "formattedPhone":"(416) 928-9666"
+            },
+            "location":{
+               "address":"801 Bay St",
+               "crossStreet":"at College St",
+               "lat":43.66071353922905,
+               "lng":-79.38549125817697,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.66071353922905,
+                     "lng":-79.38549125817697
+                  }
+               ],
+               "distance":1202,
+               "postalCode":"M5S 1Y9",
+               "cc":"CA",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Toronto, ON",
+               "contextGeoId":582159,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">801 Bay St<\/span> (at College St)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5S 1Y9<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/timothys-world-coffee\/4b156e98f964a520cbac23e3",
+            "canonicalPath":"\/v\/timothys-world-coffee\/4b156e98f964a520cbac23e3",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":4,
+               "usersCount":164,
+               "checkinsCount":299
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               {
+                  "id":"5e6bd3fb0e615b74ee0d076b"
+               }
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4bce5e21cc8cd13a7359c4cf",
+            "name":"Timothy's World Coffee",
+            "contact":{
+               "phone":"4165981367",
+               "formattedPhone":"(416) 598-1367"
+            },
+            "location":{
+               "address":"444 Yonge St",
+               "crossStreet":"in College Park",
+               "lat":43.66046739684086,
+               "lng":-79.38465356826782,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.66046739684086,
+                     "lng":-79.38465356826782
+                  }
+               ],
+               "distance":1228,
+               "postalCode":"M5B 2H4",
+               "cc":"CA",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Toronto, ON",
+               "contextGeoId":582159,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">444 Yonge St<\/span> (in College Park)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5B 2H4<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/timothys-world-coffee\/4bce5e21cc8cd13a7359c4cf",
+            "canonicalPath":"\/v\/timothys-world-coffee\/4bce5e21cc8cd13a7359c4cf",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":0,
+               "usersCount":18,
+               "checkinsCount":21
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               {
+                  "id":"5e6bd3fb0e615b74ee0d076b"
+               }
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"58d2dbe292789f7eb2f51863",
+            "name":"Union Coffee @ OCADU",
+            "contact":{
+               
+            },
+            "location":{
+               "lat":43.653084,
+               "lng":-79.391137,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.653084,
+                     "lng":-79.391137
+                  }
+               ],
+               "distance":350,
+               "cc":"CA",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Toronto, ON",
+               "contextGeoId":582135,
+               "formattedAddress":[
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/union-coffee--ocadu\/58d2dbe292789f7eb2f51863",
+            "canonicalPath":"\/v\/union-coffee--ocadu\/58d2dbe292789f7eb2f51863",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":0,
+               "usersCount":2,
+               "checkinsCount":12
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"5d07af7f8c9f410023d6f0f8",
+            "name":"Carbonic Coffee",
+            "contact":{
+               
+            },
+            "location":{
+               "lat":43.655898,
+               "lng":-79.393491,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.655898,
+                     "lng":-79.393491
+                  }
+               ],
+               "distance":392,
+               "postalCode":"M5T 1L1",
+               "cc":"CA",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Toronto, ON",
+               "contextGeoId":582135,
+               "formattedAddress":[
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5T 1L1<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/carbonic-coffee\/5d07af7f8c9f410023d6f0f8",
+            "canonicalPath":"\/v\/carbonic-coffee\/5d07af7f8c9f410023d6f0f8",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":4,
+               "usersCount":35,
+               "checkinsCount":63
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4bc796086501c9b6a1ba3e29",
+            "name":"Niagara coffee shop",
+            "contact":{
+               
+            },
+            "location":{
+               "address":"Niagara St.",
+               "lat":43.64188299139057,
+               "lng":-79.40246343612671,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.64188299139057,
+                     "lng":-79.40246343612671
+                  }
+               ],
+               "distance":1327,
+               "cc":"CA",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Toronto, ON",
+               "contextGeoId":582149,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">Niagara St.<\/span>",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/niagara-coffee-shop\/4bc796086501c9b6a1ba3e29",
+            "canonicalPath":"\/v\/niagara-coffee-shop\/4bc796086501c9b6a1ba3e29",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":0,
+               "usersCount":9,
+               "checkinsCount":9
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4b05a67cf964a52034e022e3",
+            "name":"Timothy's World Coffee",
+            "contact":{
+               
+            },
+            "location":{
+               "address":"225 Front Street E",
+               "crossStreet":"Metro Toronto Convention Centre",
+               "lat":43.640346,
+               "lng":-79.389881,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.640346,
+                     "lng":-79.389881
+                  }
+               ],
+               "distance":1443,
+               "cc":"CA",
+               "neighborhood":"Entertainment District",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Entertainment District",
+               "contextGeoId":113536,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">225 Front Street E<\/span> (Metro Toronto Convention Centre)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/timothys-world-coffee\/4b05a67cf964a52034e022e3",
+            "canonicalPath":"\/v\/timothys-world-coffee\/4b05a67cf964a52034e022e3",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":0,
+               "usersCount":6,
+               "checkinsCount":6
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               {
+                  "id":"5e6bd3fb0e615b74ee0d076b"
+               }
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4ec514ec9911232436e364af",
+            "name":"Timothy's World Coffee",
+            "contact":{
+               
+            },
+            "location":{
+               "address":"Yonge",
+               "crossStreet":"Dundas",
+               "lat":43.65669995833159,
+               "lng":-79.37994058195848,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.65669995833159,
+                     "lng":-79.37994058195848
+                  }
+               ],
+               "distance":1327,
+               "postalCode":"M5B 2G9",
+               "cc":"CA",
+               "neighborhood":"Downtown Toronto",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Downtown Toronto",
+               "contextGeoId":66084,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">Yonge<\/span> (Dundas)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5B 2G9<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/timothys-world-coffee\/4ec514ec9911232436e364af",
+            "canonicalPath":"\/v\/timothys-world-coffee\/4ec514ec9911232436e364af",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":1,
+               "usersCount":12,
+               "checkinsCount":46
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               {
+                  "id":"5e6bd3fb0e615b74ee0d076b"
+               }
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"5a6b737b35f98359eed11974",
+            "name":"The Library Specialty Coffee",
+            "contact":{
+               
+            },
+            "location":{
+               "address":"281 Dundas St West",
+               "crossStreet":"St Patrick And Dundas St W",
+               "lat":43.65441282740799,
+               "lng":-79.39090161351724,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":43.65441282740799,
+                     "lng":-79.39090161351724
+                  }
+               ],
+               "distance":414,
+               "postalCode":"M5T 2W5",
+               "cc":"CA",
+               "city":"Toronto",
+               "state":"ON",
+               "country":"Canada",
+               "contextLine":"Toronto, ON",
+               "contextGeoId":582135,
+               "formattedAddress":[
+                  "<span itemprop=\"streetAddress\">281 Dundas St West<\/span> (St Patrick And Dundas St W)",
+                  "<span itemprop=\"addressLocality\">Toronto<\/span> <span itemprop=\"addressRegion\">ON<\/span> <span itemprop=\"postalCode\">M5T 2W5<\/span>"
+               ]
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/the-library-specialty-coffee\/5a6b737b35f98359eed11974",
+            "canonicalPath":"\/v\/the-library-specialty-coffee\/5a6b737b35f98359eed11974",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1e0931735",
+                  "name":"Coffee Shop",
+                  "pluralName":"Coffee Shops",
+                  "shortName":"Coffee Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                     "mapPrefix":"https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/coffeeshop",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "tipCount":6,
+               "usersCount":189,
+               "checkinsCount":400
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+                  
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+                  
+               ]
+            },
+            "referralId":"v-1638838296",
+            "venueChains":[
+               
+            ],
+            "hasPerk":false
+         }
+      ]
+   }
+}

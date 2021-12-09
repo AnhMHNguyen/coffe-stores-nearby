@@ -1,0 +1,106 @@
+@use "../styles/variables" as v;
+
+.container {
+  margin-bottom: 1rem;
+
+  @media (min-width: v.$large) {
+    text-align: left;
+  }
+}
+
+.title {
+  letter-spacing: -0.025em;
+  font-weight: 800;
+  font-size:  3rem;
+  line-height: 1;
+  font-family: 'Cabin', sans-serif;
+  
+  @media (min-width: v.$small) {
+    font-size: 3rem;
+    line-height: 1;
+  }
+
+  @media (min-width: v.$medium) {
+    font-size: 3.75rem;
+    line-height: 1;
+  }
+
+  @media (min-width: v.$large) {
+    font-size: 4.5rem;
+    line-height: 1;
+  }
+
+  .title1 {
+    color: v.$white;
+  }
+
+  .title2 {
+    display: block;
+    color: v.$dark-purple;
+    @media (min-width: v.$large) {
+      padding-left: 0.5rem;
+    }
+    @media (min-width: v.$xlarge) {
+      display: inline;
+    }
+  }
+}
+
+.subtitle {
+  margin-top: 1rem;
+  font-size: 1.125rem;
+  line-height: 2;
+  color: v.$white;
+  margin-left: .25rem;
+
+  @media (min-width: v.$small) {
+    margin-top: 1.25rem;
+    max-width: 36rem;
+  }
+
+  @media (min-width: v.$medium) {
+    margin-top: 1.25rem;
+  }
+
+  @media (min-width: v.$large) {
+    margin-right: 0px;
+  }
+}
+
+.buttonWrapper {
+  margin-top: 1.25rem;
+
+  @media (min-width: v.$small) {
+    display: flex;
+    margin-top: 2rem;
+  }
+
+  @media (min-width: v.$large) {
+    justify-content: flex-start;
+  }
+
+  .button {
+  background-color: v.$dark-purple;
+  color: v.$white;
+  cursor: pointer;
+  border: 1px solid v.$dark-purple;
+  border-radius: 1.25rem;
+  padding: 1rem 2.5rem;
+  font-size: 1rem;
+  line-height: 1.75;
+
+  @media (min-width: v.$medium) {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+  }
+  
+  &:hover {
+    background-color: v.$purple;
+    color: v.$black;
+  }
+}
+}
